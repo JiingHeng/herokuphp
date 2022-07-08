@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <!--Fix 2: Serve responsive images (NOT DONE)-->
-    <img src="img/wallpaper.webp" srcset="wallpaper.webp 1536w" sizes="50vw">
+    <!--Error 11: Serve responsive images-->
+    <img src="img/wallpaper.jpg" alt="wallpaper">
 </body>
 </html>
