@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <!--Fix 6: Heading Elements are not in a sequentially-descending order-->
+    <!--Fix 6: Heading Elements are not in a sequentially-descending order (DONE)-->
     <h3> Page title </h3>
     <header>
         <h3> Section 1 of page </h3>
