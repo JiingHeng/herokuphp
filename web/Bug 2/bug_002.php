@@ -9,6 +9,6 @@
 </head>
 <body>
     <!--Error 1: Serve responsive images-->
-    <img src="web/resources/img/wallpaper.jpg">
+    <img src="resources/img/wallpaper.jpg">
 </body>
 </html>
