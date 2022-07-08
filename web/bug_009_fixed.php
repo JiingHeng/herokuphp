@@ -8,6 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-    <!--Fix 9: Document doesn't use legible font sizes-->
+    <!--Fix 9: Document doesn't use legible font sizes (DONE)-->
     <h1 style="font-size: 13px">Hello</h1></body>
 </html>

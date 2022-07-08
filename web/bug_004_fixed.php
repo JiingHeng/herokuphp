@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--Fix 4: <html> element does not have a [lang] attribute-->
+<!--Fix 4: <html> element does not have a [lang] attribute (DONE)-->
 <html lang="en">
 <head>
     <meta charset="UTF-8">

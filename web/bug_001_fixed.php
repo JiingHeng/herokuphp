@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <!--Fix 1: Image element does not have explicit width and height-->
+    <!--Fix 1: Image element does not have explicit width and height (DONE)-->
     <img src="img/wallpaper.jpg" width="1536" height="1024" alt="wallpaper">
 </body>
 </html>
