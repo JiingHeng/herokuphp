@@ -10,5 +10,6 @@
 <body>
     <!--Error 7: Make your links crawlable-->
     <a link="bug_007_fixed.php">Click here</a>
+    <span href="https://enigmatic-taiga-22518.herokuapp.com/bug_007_fixed.php">
 </body>
 </html>
