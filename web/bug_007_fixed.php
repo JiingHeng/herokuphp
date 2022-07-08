@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <!--Fix 7: Links do not have descriptive text-->
-    <p> To , <a href="web/NYP ERRORS/nypErrors.php"</a> for the error page.</p>
+    <!--Fix 7: Make your links crawlable-->
+    <a href="bug_007.php">
 </body>
 </html>
