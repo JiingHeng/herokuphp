@@ -9,7 +9,7 @@
 </head>
 <body>
     <!--Error 8: Links do not have descriptive text-->
-    <p><a href="bug_008_fixed.php">hi</a></p>
+    <button type="submit"><a href="bug_008_fixed.php">hi</a></button>
 
 </body>
 </html>
