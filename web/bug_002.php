@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <!--Error 2: Serve responsive images-->
+    <!--Error 2: Serve Images in modern formats-->
     <img src="img/wallpaper.jpg" alt="wallpaper">
 </body>
 </html>
