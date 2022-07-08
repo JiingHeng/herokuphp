@@ -9,6 +9,6 @@
 </head>
 <body>
     <!--Fix 1: Image element does not have explicit width and height-->
-    <img src="resources/img/wallpaper.jpg" width="1536" height="1024" alt="wallpaper">
+    <img src="img/wallpaper.jpg" width="1536" height="1024" alt="wallpaper">
 </body>
 </html>
