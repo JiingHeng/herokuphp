@@ -10,7 +10,9 @@
 <body>
     <!--Error 6: Heading Elements are not in a sequentially-descending order-->
     <h3> Page title </h3>
-    <h3> Section 1 of page </h3>
-    <h3> Section 2 of page </h3>
+    <header>
+        <h3> Section 1 of page </h3>
+        <h3> Section 2 of page </h3>
+    </header>
 </body>
 </html>
