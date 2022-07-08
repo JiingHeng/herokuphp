@@ -10,7 +10,10 @@
 <body>
     <!--Fix 6: Heading Elements are not in a sequentially-descending order-->
     <h1> Page title </h1>
-    <h3> Section 1 of page </h3>
-    <h3> Section 2 of page </h3>
+    <section>
+        <h3> Section 1 of page </h3>
+        <h3> Section 2 of page </h3>
+    </section>
+    
 </body>
 </html>
