@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <!--Fix 7: Make your links crawlable-->
+    <!--Fix 7: Make your links crawlable (DONE)-->
     <a href="bug_007.php">Click here to go to the error/bug!</a>
 </body>
 </html>
