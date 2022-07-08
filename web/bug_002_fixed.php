@@ -9,6 +9,6 @@
 </head>
 <body>
     <!--Fix 2: Serve responsive images-->
-    <img src="img/wallpaper.webp" srcset="wallpaper.webp 1536w" sizes="50vw" alt="wallpaper">
+    <img src="img/wallpaper.webp" width="1536" height="1024" srcset="wallpaper.webp 1536w" sizes="50vw" alt="wallpaper">
 </body>
 </html>
