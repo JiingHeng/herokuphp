@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "JiingHeng",
+        "email": "20013327@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
