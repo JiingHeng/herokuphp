@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <!--Fix 2: Serve responsive images (NOT DONE)_-->
-    <img src="img/wallpaper.webp" width="1536" height="1024" srcset="wallpaper.webp 1536w" sizes="50vw" alt="wallpaper">
-</body>
+    <!--Fix 10: Displays images with incorrect aspect ratio-->
+    <!-- 1536/1024 = 1.5 (Aspect ratio) -->
+    <img src="img/wallpaper.webp" width="1024" height="682">
 </html>
