@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <!--Fix 5:Lists do not contain only <li> elements and script supporting elements (<script> and <template>) -->
+    <!--Fix 5:Lists do not contain only <li> elements and script supporting elements (<script> and <template>) (DONE)-->
     <ul>
         <li>Coffee</li>
         <li>Tea</li>
