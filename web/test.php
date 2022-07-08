@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
     <!--Fix: Does not have a <meta name=”viewport”> tag with width or initial-scale -->
-    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!--Fix: Document does not have a meta description-->
     <meta name="description" content="RP worksheet exerise for Lesson 08">
 </head>
