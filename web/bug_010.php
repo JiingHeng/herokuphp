@@ -11,7 +11,7 @@
     <!--Error 10: Displays images with incorrect aspect ratio-->
     <!-- 1536/1024 = 1.5 (Aspect ratio) -->
     <!-- 1024/768 = 1.3 (Aspect ratio) -->
-    <img src="img/wallpaper.jpg" width="1024" height="768">
+    <img src="img/wallpaper.webp" width="1024" height="768">
 
 </body>
 </html>
