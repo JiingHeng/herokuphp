@@ -9,6 +9,6 @@
 </head>
 <body>
     <!--Error 7: Make your links crawlable-->
-    <a link="bug_007_fixed.php">
+    <a link="bug_007_fixed.php">Click here</a>
 </body>
 </html>
